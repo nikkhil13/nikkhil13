@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 💻 How to reach me: nhsuthar@ncsu.edu
-- 🌱 I'm currently pursuing a Master of Science in Analytics degree from North Carolina State University’s Institute for Advanced Analytics.
-- ⚡ Fun fact: Big cinema buff; music lover; guitar & uke player; hiking...
-
+- 🌱 I have completed my Master of Science in Analytics degree from North Carolina State University’s Institute for Advanced Analytics. I am working as a Senior Consultant at EY's FSO Data and Analytics team in NYC. 
+- ⚡ Fun fact: Big cinema buff; music lover; guitar & uke player; books.
 
 
 ### Connect with me:
