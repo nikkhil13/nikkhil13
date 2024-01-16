@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 How to reach me: nhsuthar@ncsu.edu
 - 🌱 I am currently working as a Senior Consultant at EY's FSO Data and Analytics team in NYC.
 - I have completed my Master of Science in Analytics degree from North Carolina State University’s Institute for Advanced Analytics in 2023.
 - I have 5.5 years of experience in data science consulting, presales and data storytelling helping clients realize business value from analytics. I have worked with 30+ clients in banking, capital markets and insurance sector, guiding them in implementation of data driven strategies to adapt an end-to-end analytics platform on cloud/on-premises, from data preparation and visualization to ML/AI, model deployment, validation, and DevOps integration.
-- ⚡ Fun fact: Big cinema buff; music lover; guitar & uke player; books.
+- ⚡ Fun fact: Big cinema buff; music lover; guitar & uke player; books; generally curious about everything.
+- 💻 How to reach me: nhsuthar@ncsu.edu
 
 
 ### Connect with me:
